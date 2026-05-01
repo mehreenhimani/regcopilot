@@ -1,3 +1,5 @@
+📄 **[Download Case Study](RegCopilot_Case_Study_Mehreen.docx)**
+
 # RegCopilot — AI Copilot for EU Regulatory Compliance
 
 An AI-powered RAG copilot for compliance officers. Ask questions about EU AI Act, DORA, AMLD6, and GDPR — get citation-grounded answers in seconds.
