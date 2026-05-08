@@ -76,9 +76,9 @@ from retrieved context — Claude respects this constraint reliably.
 
 ## Screenshots
 
-| Query Interface | Citation Verification | Audit Trail |
-|----------------|----------------------|-------------|
-| ![Query](screenshots/01-query.png) | ![Citations](screenshots/02-citations.png) | ![Audit](screenshots/03-audit.png) |
+| Query Interface | Document Library | Audit Trail |
+|----------------|-----------------|-------------|
+| ![Query](screenshots/Query%20-%20Regcopilot.png) | ![Library](screenshots/Document%20Library%20-%20Regcopilot.png) | ![Audit](screenshots/Audit%20Trail%20-%20Regcopilot.png) |
 
 ---
 
