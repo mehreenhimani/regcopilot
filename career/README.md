@@ -12,6 +12,7 @@ reference in interviews, and a mapping against the target job description.
 | **[Mehreen_Himani_Head_of_AI_CV.md](Mehreen_Himani_Head_of_AI_CV.md)** | The master CV, repositioned from Senior Project Manager to Head of AI. Edit this one. |
 | **Mehreen_Himani_Head_of_AI_CV.docx** | Formatted Word version for applications. Regenerate with `python3 career/build_cv_docx.py` after editing. Export to PDF from Word before sending. |
 | **[JD_Mapping_and_Interview_Prep.md](JD_Mapping_and_Interview_Prep.md)** | Requirement-by-requirement mapping against the target JD, an honest gap analysis with scripted answers, a 90-day plan, and likely hard questions. **Read this before any interview.** |
+| **[German_Market_Fit_and_4_Week_Plan.md](German_Market_Fit_and_4_Week_Plan.md)** | Market research on German Head of AI roles, the three role archetypes and which to apply for, the full regulatory syllabus with study links (EU AI Act, KI-MIG, DORA, MaRisk/BAIT, GDPR, ISO 42001, NIST AI RMF), certification recommendations with costs, and a day-by-day 4-week study plan. **Start here.** |
 | **[case-study-aegis/](case-study-aegis/)** | Project AEGIS — the flagship 0→1 Head of AI case study. Six documents covering operating model, architecture, unit economics, EU AI Act conformity, evaluation, and the commercial model. |
 
 ---
