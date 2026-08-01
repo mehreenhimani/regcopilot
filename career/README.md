@@ -7,10 +7,27 @@ reference in interviews, and a mapping against the target job description.
 
 ## Contents
 
+## Which CV for which role
+
+| Role type | CV to use |
+|---|---|
+| **Head of AI Governance / AI Transformation / AI Portfolio Lead** — in-house, process-flavoured | `Mehreen_Himani_Head_of_AI_Governance_CV` |
+| **Head of AI / AI Practice Lead** — consulting, P&L and business development | `Mehreen_Himani_Head_of_AI_CV` |
+| **Head of AI — Research / Platform** (PhD, model training, MLOps at scale) | Neither — don't apply |
+
+Both CVs share all facts and differ only in emphasis. If you change a metric, change it in both.
+
+---
+
+## Contents
+
 | File | What it is |
 |---|---|
-| **[Mehreen_Himani_Head_of_AI_CV.md](Mehreen_Himani_Head_of_AI_CV.md)** | The master CV, repositioned from Senior Project Manager to Head of AI. Edit this one. |
-| **Mehreen_Himani_Head_of_AI_CV.docx** | Formatted Word version for applications. Regenerate with `python3 career/build_cv_docx.py` after editing. Export to PDF from Word before sending. |
+| **[Mehreen_Himani_Head_of_AI_CV.md](Mehreen_Himani_Head_of_AI_CV.md)** | CV for consulting / practice-lead roles: leads with commercial ownership. Edit this one, not the .docx. |
+| **Mehreen_Himani_Head_of_AI_CV.docx** | Formatted Word version. Regenerate with `python3 career/build_cv_docx.py` after editing. Export to PDF from Word before sending. |
+| **[Mehreen_Himani_Head_of_AI_Governance_CV.md](Mehreen_Himani_Head_of_AI_Governance_CV.md)** | CV for AI governance / transformation roles: leads with process transformation, compliance second. |
+| **Mehreen_Himani_Head_of_AI_Governance_CV.docx** | Formatted Word version. Regenerate with `python3 career/build_governance_cv_docx.py`. |
+| **[AI_Governance_Role_Prep_and_Study_Plan.md](AI_Governance_Role_Prep_and_Study_Plan.md)** | For the governance/transformation role: requirement mapping (9 green, 4 amber), the four gaps (Celonis, BPMN 2.0, Lean Six Sigma, RPA) with free-first closure routes, a process-focused 4-week plan, and role-specific interview questions. |
 | **[JD_Mapping_and_Interview_Prep.md](JD_Mapping_and_Interview_Prep.md)** | Requirement-by-requirement mapping against the target JD, an honest gap analysis with scripted answers, a 90-day plan, and likely hard questions. **Read this before any interview.** |
 | **[German_Market_Fit_and_4_Week_Plan.md](German_Market_Fit_and_4_Week_Plan.md)** | Market research on German Head of AI roles, the three role archetypes and which to apply for, the full regulatory syllabus with study links (EU AI Act, KI-MIG, DORA, MaRisk/BAIT, GDPR, ISO 42001, NIST AI RMF), certification recommendations with costs, and a day-by-day 4-week study plan. **Start here.** |
 | **[case-study-aegis/](case-study-aegis/)** | Project AEGIS — the flagship 0→1 Head of AI case study. Six documents covering operating model, architecture, unit economics, EU AI Act conformity, evaluation, and the commercial model. |
