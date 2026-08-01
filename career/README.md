@@ -81,3 +81,20 @@ references about.
 3. Confirm the "AI Delivery & Enablement Lead" title is fair to state for the Capgemini role.
 4. Update the LinkedIn headline and add the case study to Featured.
 5. Tailor the summary opener per application using the JD's own language.
+
+---
+
+## Regenerating the PDF
+
+LibreOffice cannot run in this environment, so the PDF is rendered from `cv_print.html`
+(A4 print CSS) via headless Chromium. Real text layer, ATS-readable, two pages.
+
+```sh
+/opt/pw-browsers/chromium-1194/chrome-linux/chrome --headless --disable-gpu --no-sandbox \
+  --print-to-pdf=career/Mehreen_Himani_Head_of_AI_CV.pdf --no-pdf-header-footer \
+  file://$PWD/career/cv_print.html
+```
+
+Edit `cv_print.html` for the PDF and `Mehreen_Himani_Head_of_AI_CV.md` for the master;
+keep the two in sync. On any machine with LibreOffice or Word, exporting the `.docx`
+to PDF also works.
