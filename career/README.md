@@ -5,8 +5,6 @@ reference in interviews, and a mapping against the target job description.
 
 ---
 
-## Contents
-
 ## Which CV for which role
 
 | Role type | CV to use |
@@ -24,7 +22,8 @@ Both CVs share all facts and differ only in emphasis. If you change a metric, ch
 | File | What it is |
 |---|---|
 | **[Mehreen_Himani_Head_of_AI_CV.md](Mehreen_Himani_Head_of_AI_CV.md)** | CV for consulting / practice-lead roles: leads with commercial ownership. Edit this one, not the .docx. |
-| **Mehreen_Himani_Head_of_AI_CV.docx** | Formatted Word version. Regenerate with `python3 career/build_cv_docx.py` after editing. Export to PDF from Word before sending. |
+| **Mehreen_Himani_Head_of_AI_CV.pdf** | **Ready to send.** Two pages, A4, real text layer (ATS-readable). Rendered from `cv_print.html` — see "Regenerating the PDF" below. |
+| **Mehreen_Himani_Head_of_AI_CV.docx** | Editable Word version. Regenerate with `python3 career/build_cv_docx.py` after editing the Markdown. |
 | **[Mehreen_Himani_Head_of_AI_Governance_CV.md](Mehreen_Himani_Head_of_AI_Governance_CV.md)** | CV for AI governance / transformation roles: leads with process transformation, compliance second. |
 | **Mehreen_Himani_Head_of_AI_Governance_CV.docx** | Formatted Word version. Regenerate with `python3 career/build_governance_cv_docx.py`. |
 | **[AI_Governance_Role_Prep_and_Study_Plan.md](AI_Governance_Role_Prep_and_Study_Plan.md)** | For the governance/transformation role: requirement mapping (9 green, 4 amber), the four gaps (Celonis, BPMN 2.0, Lean Six Sigma, RPA) with free-first closure routes, a process-focused 4-week plan, and role-specific interview questions. |
